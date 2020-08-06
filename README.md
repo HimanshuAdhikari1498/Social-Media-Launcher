@@ -1,5 +1,5 @@
 # Social Media Launcher
-Simple Chrome Extension quick launcher for all social media profiles.
+Simple Chrome Extension quick launcher for your all social media profiles.
 
 # How to run
 1. at cmd clone this repo as ```git clone https://github.com/HimanshuAdhikari1498/Social-Media-Launcher.git```
